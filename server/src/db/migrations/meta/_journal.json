@@ -8,6 +8,13 @@
       "when": 1751942260491,
       "tag": "0000_special_surge",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1751991746631,
+      "tag": "0001_short_scalphunter",
+      "breakpoints": true
     }
   ]
 }
